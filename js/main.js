@@ -1,3 +1,5 @@
+'use strict'
+
 //step 1
 
 const numKM = Number(prompt('inserire la distanza da percorrere'))
